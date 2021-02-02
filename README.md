@@ -1,6 +1,6 @@
 # myprivateraces
 
-Remkake of myprivateraces addon by MiB
+Remake of myprivateraces addon by MiB
 
 Installation:
     
